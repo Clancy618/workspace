@@ -1,0 +1,4 @@
+lettercolors = [red, orange, green, blue];
+message = 'multiple colors';
+drawName(message, letterColors);
+bounceBubbles();
